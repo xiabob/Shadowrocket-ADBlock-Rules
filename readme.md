@@ -1,6 +1,6 @@
 
 #Shadowrocket自定义规则
-**规则地址：**<https://raw.githubusercontent.com/xiabob/Shadowrocket-ADBlock-Rules/master/sr_adb.conf>
+
 
 #net-speeder
 netspeeder.sh是[net-speeder](https://github.com/snooda/net-speeder)一键安装脚本，使用方法：
